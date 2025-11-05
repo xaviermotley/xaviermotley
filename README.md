@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>A production-grade demonstration of container image signing, verification, and attestation enforcement using  
-AWS Signer, Notation CLI, Amazon ECR, and Kyverno</b>
-  - [Image Signing in AWS](https://github.com/xaviermotley/Container-Image-Signing)
+- <b>Production grade container image signing, verification, and attestation with AWS Signer, Notation CLI, Amazon ECR, and Kyverno</b>
+  - [Image Signing in AWS](https://github.com/xaviermotley/image-signing-in-aws/blob/main/README.md)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
