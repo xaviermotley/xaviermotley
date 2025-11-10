@@ -7,10 +7,7 @@
 - <b>[Zero Trust Cloud Network in AWS](https://github.com/xaviermotley/zero-trust-cloud-network/blob/main/README.md)</b>
   - Securely integrate Zero Trust principles into your AWS cloud network using Amazon VPC Lattice, AWS Verified Access, identity providers, and traditional network security controls.
 
-- <b>Production grade container image signing, verification, and attestation with AWS Signer, Notation CLI, Amazon ECR, and Kyverno</b>
-  - [Image Signing in AWS](https://github.com/xaviermotley/image-signing-in-aws/blob/main/README.md)
-- <b>Securely integrate Zero Trust principles into your AWS cloud network using Amazon VPC Lattice, AWS Verified Access, identity providers, and traditional network security controls.</b>
-  - [Zero Trust Cloud Network in AWS](https://github.com/xaviermotley/zero-trust-cloud-network/blob/main/README.md)
+
 
 <h2>📺 Popular Videos</h2>
 
