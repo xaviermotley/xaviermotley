@@ -8,7 +8,8 @@
   - Securely integrate Zero Trust principles into your AWS cloud network using Amazon VPC Lattice, AWS Verified Access, identity providers, and traditional network security controls.
 - <b>[Open Security Datalake Detection-as-Code in AWS](https://github.com/xaviermotley/open-security-datalake-dac/blob/main/README.md)</b>
   - Stand up a real-world AWS Security Data Lake, author and test detections-as-code, simulate attacks, and produce measurable detection coverage.  
-
+- <b>[AWS ↔ Vanta GRC Autopilot (event‑driven, serverless, OSCAL‑ready)](https://github.com/xaviermotley/aws-vanta-grc-autopilotaws-vanta-grc-autopilot/blob/main/README.md)</b>
+  - Build an event‑driven, serverless pipeline that turns AWS compliance signals (AWS Config, Security Hub, Security Lake/OCSF) into live Vanta evidence & custom control status via the Vanta API.  
 
 
 <h2>📺 Popular Videos</h2>
