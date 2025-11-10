@@ -10,6 +10,8 @@
   - Stand up a real-world AWS Security Data Lake, author and test detections-as-code, simulate attacks, and produce measurable detection coverage.  
 - <b>[AWS ↔ Vanta GRC Autopilot (event‑driven, serverless, OSCAL‑ready)](https://github.com/xaviermotley/aws-vanta-grc-autopilot/blob/main/README.md)</b>
   - Build an event‑driven, serverless pipeline that turns AWS compliance signals (AWS Config, Security Hub, Security Lake/OCSF) into live Vanta evidence & custom control status via the Vanta API.  
+- <b>[AI/LLM Security & Governance Starter Kit](https://github.com/xaviermotley/llm-sec-gov/blob/main/README.md)</b>
+  - An end‑to‑end LLM security starter kit that enables threat‑modeling, testing, and governance with a red‑team/evals harness (prompt injection, data exfiltration, unsafe content), built‑in guardrails (simple filters + optional NVIDIA NeMo), governance artifacts (NIST AI RMF mapping, risk register, PIA, model/system cards), and metrics/CI gates that fail on regressions—anchored to NIST AI RMF 1.0, OWASP LLM Top 10 (2025), MITRE ATLAS, and the EU AI Act.  
 
 
 <h2>📺 Popular Videos</h2>
