@@ -1,4 +1,4 @@
-<h1>Hi, I'm Xavier! <a href="https://www.linkedin.com/in/xaviermotley/">Cybersecurity Professional</a> and <a href="https://github.com/xaviermotley">Tinkerer</a>.
+<h1>Hi, I'm Xavier! <a href="https://www.linkedin.com/in/xaviermotley/">Cybersecurity Professional</a> perpetual learner, and <a href="https://github.com/xaviermotley">Tinkerer</a>.
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
