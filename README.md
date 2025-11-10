@@ -1,6 +1,6 @@
 <h1>Hi, I'm Xavier! <a href="https://www.linkedin.com/in/xaviermotley/">Cybersecurity Professional</a> perpetual learner, and <a href="https://github.com/xaviermotley">Tinkerer</a>.
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Image Signing in AWS](https://github.com/xaviermotley/image-signing-in-aws/blob/main/README.md)</b>
   - Production grade container image signing, verification, and attestation with AWS Signer, Notation CLI, Amazon ECR, and Kyverno.
