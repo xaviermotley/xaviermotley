@@ -1,4 +1,6 @@
-<h1>Hi, I'm Xavier! I'm a <a href="https://www.linkedin.com/in/xaviermotley/">cybersecurity professional</a>, <a href="https://xaviermotley.substack.com/profile/posts">perpetual learner</a>, and <a href="https://github.com/xaviermotley/xaviermotley/blob/main/README.md">constant tinkerer</a> who builds security programs and technical architectures that enable fast-moving teams to create, ship, and scale safely.</h1>
+<h1>Hi, I'm Xavier! 
+
+I'm a <a href="https://www.linkedin.com/in/xaviermotley/">cybersecurity professional</a>, <a href="https://xaviermotley.substack.com/profile/posts">perpetual learner</a>, and <a href="https://github.com/xaviermotley/xaviermotley/blob/main/README.md">constant tinkerer</a> who builds security programs and technical architectures that enable fast-moving teams to create, ship, and scale safely.</h1>
 
 <h2>🔱 Security Leadership Portfolio</h2>
 <p>A structured leadership portfolio that outlines the operating models, governance frameworks, and program architectures I use to build and lead modern security organizations.</p>
