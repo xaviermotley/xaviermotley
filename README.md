@@ -30,7 +30,4 @@
 <li>- <a href="https://www.youtube.com/watch?v=DYbdqR9BT9g">Ransomware Demonstration (C#)</a></li>
 
 <h2>🤝 Connect with me:</h2>
-<p>
-  <a href="https://www.linkedin.com/in/xaviermotley/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
-  <a href="https://xaviermotley.substack.com/profile/posts"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/substack.svg" alt="Substack" height="30"></a>
-</p>
+<a href="https://www.linkedin.com/in/xaviermotley/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30"></a> <a href="https://xaviermotley.substack.com/profile/posts"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/substack.svg" alt="Substack" height="30"></a>
