@@ -30,10 +30,10 @@
 - A practical home lab that explores how studios can protect high-value creative content such as interactive builds, cinematic files, pre-release media, 3D assets, and marketing materials across distributed workflows and global vendor ecosystems.</li>
 
 <h2>🎮 Popular Videos</h2>
-- How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=qbma35Gn_v_s)
-- A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uky3x0n77nd)
-- How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=YV-Ku3fLuXU)
-- Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=DYbdqR9BT9g)
+<li>- How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=qbma35Gn_v_s)</li>
+<li>- A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=uky3x0n77nd)</li>
+<li>- How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=YV-Ku3fLuXU)</li>
+<li>- Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=DYbdqR9BT9g)</li>
 
 <h2>🤝 Connect with me:</h2>
 <p><a href="https://linkedin.com/in/xaviermotley">LinkedIn</a></p>
