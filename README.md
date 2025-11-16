@@ -23,7 +23,7 @@
 <li><b><a href="https://github.com/xaviermotley/llm-sec-gov/blob/main/README.md">AI/LLM Security & Governance Starter Kit</a></b> - An end-to-end LLM security starter kit that enables threat-modeling, testing, and governance with a red-team/evals harness (prompt injection, data exfiltration, unsafe content), built-in guardrails (simple filters + optional NVIDIA NeMo), governance artifacts (NIST AI RMF mapping, risk register, PIA, model/system cards), and metrics/CI gates that fail on regressions—anchored to NIST AI RMF 1.0, OWASP LLM Top 10 (2025), MITRE ATLAS, and the EU AI Act.</li>
 <li><b><a href="https://github.com/xaviermotley/creative-content-security-lab/blob/main/README.md">Creative Content Security Lab</a></b> - A practical home lab that explores how studios can protect high-value creative content such as interactive builds, cinematic files, pre-release media, 3D assets, and marketing materials across distributed workflows and global vendor ecosystems.</li>
 
-<h2>🎮 Popular Videos</h2>
+<h2>🎦 Popular Videos</h2>
 <li>- <a href="https://www.youtube.com/watch?v=qbma35Gn_v_s">How to get into Cybersecurity Starting From Zero</a></li>
 <li>- <a href="https://www.youtube.com/watch?v=uky3x0n77nd">A Day in the Life of a Cybersecurity Analyst</a></li>
 <li>- <a href="https://www.youtube.com/watch?v=YV-Ku3fLuXU">How to Create a KeyLogger (C#)</a></li>
