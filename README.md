@@ -26,11 +26,8 @@ I'm a <a href="https://www.linkedin.com/in/xaviermotley/">cybersecurity professi
 <li><b><a href="https://github.com/xaviermotley/creative-content-security-lab/blob/main/README.md">Creative Content Security Lab</a></b> - A practical home lab that explores how studios can protect high-value creative content such as interactive builds, cinematic files, pre-release media, 3D assets, and marketing materials across distributed workflows and global vendor ecosystems.</li>
 
 <h2>🎦 My Videos</h2>
-coming soon!!
-<li>- <a href="https://www.youtube.com/watch?v=qbma35Gn_v_s">How to get into Cybersecurity Starting From Zero</a></li>
-<li>- <a href="https://www.youtube.com/watch?v=uky3x0n77nd">A Day in the Life of a Cybersecurity Analyst</a></li>
-<li>- <a href="https://www.youtube.com/watch?v=YV-Ku3fLuXU">How to Create a KeyLogger (C#)</a></li>
-<li>- <a href="https://www.youtube.com/watch?v=DYbdqR9BT9g">Ransomware Demonstration (C#)</a></li>
+Coming soon!!
+
 
 <h2>🤝 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/xaviermotley/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30"></a> <a href="https://xaviermotley.substack.com/profile/posts"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/substack.svg" alt="Substack" height="30"></a>
