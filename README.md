@@ -27,5 +27,6 @@ I'm a <a href="https://www.linkedin.com/in/xaviermotley/">cybersecurity professi
 <h2>🎞️ My Videos</h2>
 Coming soon!!
 
+<li><b><a href="https://github.com/xaviermotley/secure-data-lake-aws-architect/blob/main/README.md">Secure Data Lake AWS Architect</a></b> - Designed and implemented a reference architecture and threat model for a secure AWS data platform integrating commercial analytics components and secure CI/CD.</li>
 <h2>🤝 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/xaviermotley/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30"></a> <a href="https://xaviermotley.substack.com/profile/posts"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/substack.svg" alt="Substack" height="30"></a>
