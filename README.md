@@ -17,6 +17,7 @@ I'm a <a href="https://www.linkedin.com/in/xaviermotley/">cybersecurity professi
 </ul>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+<li><b><a href="https://github.com/xaviermotley/secure-data-lake-aws-architect/blob/main/README.md">Secure Data Lake AWS Architect</a></b> - Designed and implemented a reference architecture and threat model for a secure AWS data platform integrating commercial analytics components and secure CI/CD.</li>
 <li><b><a href="https://github.com/xaviermotley/image-signing-in-aws/blob/main/README.md">Image Signing in AWS</a></b> - Production grade container image signing, verification, and attestation with AWS Signer, Notation CLI, Amazon ECR, and Kyverno.</li>
 <li><b><a href="https://github.com/xaviermotley/zero-trust-cloud-network/blob/main/README.md">Zero Trust Cloud Network in AWS</a></b> - Securely integrate Zero Trust principles into your AWS cloud network using Amazon VPC Lattice, AWS Verified Access, identity providers, and traditional network security controls.</li>
 <li><b><a href="https://github.com/xaviermotley/open-security-datalake-dac/blob/main/README.md">Open Security Datalake Detection-as-Code in AWS</a></b> - Stand up a real-world AWS Security Data Lake, author and test detections-as-code, simulate attacks, and produce measurable detection coverage.</li>
@@ -27,6 +28,6 @@ I'm a <a href="https://www.linkedin.com/in/xaviermotley/">cybersecurity professi
 <h2>🎞️ My Videos</h2>
 Coming soon!!
 
-<li><b><a href="https://github.com/xaviermotley/secure-data-lake-aws-architect/blob/main/README.md">Secure Data Lake AWS Architect</a></b> - Designed and implemented a reference architecture and threat model for a secure AWS data platform integrating commercial analytics components and secure CI/CD.</li>
+
 <h2>🤝 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/xaviermotley/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30"></a> <a href="https://xaviermotley.substack.com/profile/posts"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/substack.svg" alt="Substack" height="30"></a>
