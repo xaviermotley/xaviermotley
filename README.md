@@ -14,14 +14,14 @@ The [leadership notes](security-leadership-portfolio/01-security-operating-model
 
 | Project | Current scope |
 | --- | --- |
-| [Creative Content Security Lab](https://github.com/xaviermotley/creative-content-security-lab) | Local proof of concept using synthetic assets; implemented and simulated behavior are documented separately. |
+| [Creative Content Security Lab](https://github.com/xaviermotley/creative-content-security-lab) | Synthetic local lab with ten access tests covering recipient authorization, expiry, revocation, and encrypted package delivery. Not a production service. |
 | [Secure Data Lake Architecture](https://github.com/xaviermotley/secure-data-lake-aws-architect) | Threat models and target architecture with partial Terraform examples, not a validated deployment. |
-| [Image Signing Study](https://github.com/xaviermotley/image-signing-in-aws) | Experimental integration examples pending compatibility and end-to-end validation. |
 
 Other repositories contain proposals and exploratory work. Their READMEs identify scope and limitations. A repository, diagram, or workflow is not by itself proof of production readiness.
 
 ## Writing and professional background
 
+- [Career website](https://xavier-charles-motley.pages.dev/)
 - [LinkedIn](https://www.linkedin.com/in/xaviermotley/)
 - [Substack](https://xaviermotley.substack.com/)
 
