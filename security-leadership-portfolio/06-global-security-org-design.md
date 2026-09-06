@@ -1,5 +1,7 @@
 # Global Security Org Design
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## My Mission
 My mission is to build and evolve a security organization that is agile, scalable, and aligned with the company’s strategic goals, enabling teams around the world to innovate safely and efficiently.
 

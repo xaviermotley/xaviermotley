@@ -1,5 +1,7 @@
 # Enterprise Risk Governance
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## My Mission
 My mission is to ensure that risk management practices are deeply embedded into every aspect of the organization so that security decisions are aligned with business objectives and support innovation rather than impede it.
 

@@ -1,5 +1,7 @@
 # Culture, Talent, and Team Development
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## My Mission
 My mission is to foster a security culture rooted in trust, empowerment, and continuous learning. I strive to attract, develop, and retain exceptional talent and to cultivate an inclusive environment where every team member can contribute to our collective success.
 

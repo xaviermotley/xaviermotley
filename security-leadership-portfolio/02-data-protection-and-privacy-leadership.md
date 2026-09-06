@@ -1,5 +1,7 @@
 # Data Protection & Privacy Leadership
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## Mission
 My mission is to ensure that all data collected, stored, and processed by the organization is protected throughout its lifecycle, while enabling the business to derive value from data in a responsible and compliant way. I build trust with customers and partners by embedding privacy and security into every product and process.
 

@@ -1,5 +1,7 @@
 # Board & Executive Communication Patterns and Templates
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## My Mission
 My mission is to provide clear, concise, and actionable security communications that enable the board and executive leadership to make informed decisions, understand our risk posture, and support strategic investments in security.
 

@@ -1,5 +1,7 @@
 # AI/LLM Security & Governance
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## Mission
 My mission is to ensure that artificial intelligence and machine learning systems are designed, developed, deployed, and operated securely and ethically, enabling innovation while protecting people, data, and intellectual property.
 

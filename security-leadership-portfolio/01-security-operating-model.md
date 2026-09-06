@@ -1,5 +1,7 @@
 # Security Operating Model
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## Mission
 My mission is to build and operate security programs that enable the organization to innovate boldly while safeguarding people, data, and products. Security should accelerate the business, not slow it down.
 

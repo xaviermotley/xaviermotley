@@ -1,5 +1,7 @@
 # Incident Response & Crisis Leadership
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## My Mission
 My mission is to lead the organization through security incidents and crises with speed, clarity, and empathy, minimizing damage while preserving trust and learning from every event.
 

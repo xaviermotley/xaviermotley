@@ -1,5 +1,7 @@
 # 90-Day Executive Plans (Creative, AI, Research & Engineering-Driven Organizations)
 
+> Scope: These are recommended leadership practices, not a record of specific employer implementations. First-person descriptions express an approach, not independently verified career outcomes.
+
 ## My Mission
 My mission in the first 90 days of any leadership role is to quickly assess, stabilize, and elevate the organization’s security posture while building trust with stakeholders. I focus on understanding the business, identifying critical risks, achieving early wins, and laying the foundation for long-term success across creative, AI, research, and engineering-driven environments.
 
